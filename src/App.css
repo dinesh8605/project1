@@ -1,0 +1,75 @@
+.Topic{
+  width: 230px;
+  height:1149px;
+} 
+.Topic>h1{
+  position: relative;
+  top:55px;
+  left:29px;
+  width:160px;
+  height: 36px;;
+  font-size:26px;
+}
+
+ .Manu-bar{
+  position: relative;
+  top:156px;
+  left:41px;
+  width: 166px;
+}
+.bg-body-tertiary2{
+  position: relative;
+  top:175px;
+}
+.searchbar{
+  width:655px;
+  height:52px;
+}
+.Search-icon{
+  position: relative;
+  left:271px; top:-1100px;
+  width:1129px;
+  display: flex;
+}
+.Notfi{
+position: relative;
+left:422px;
+}
+.Sales-info{
+  position: relative;
+  top:-1000px;
+  left:20px;
+}
+.sales{
+  font-size: 26px;
+}
+.input-row{
+  margin-top:25px;
+  font-size:18px;
+}
+.PlaceHolder-input{
+  margin-top:20px;
+  width:1130px;
+  height:50px;
+}
+.input1{
+  height:50px;
+
+}
+.input2 {
+  height: 50px;
+  margin-left:110px ;
+}
+.input3 {
+  height: 50px;
+  margin-left:110px ;
+}
+.input4 {
+  height: 50px;
+  margin-left:110px ;
+}
+.tables{
+  position: relative;
+  left:271px; top:-980px;
+  width:1130px;
+}
